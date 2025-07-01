@@ -5,9 +5,15 @@ User-friendly complaint submission form
 Responsive design that works on mobile and desktop
 Form validation to ensure complete submissions
 Clean, modern UI with intuitive navigation
-Technologies Used
+Technologies Used :
+
 HTML5
+
 CSS3
+
 JavaScript
+
 Font Awesome for icons
+
 Google Fonts for typography
+
