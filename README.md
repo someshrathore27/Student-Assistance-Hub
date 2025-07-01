@@ -1,0 +1,1 @@
+Student Assistance Hub is a web application designed to streamline the process of submitting and managing complaints or feedback. This project serves as a demonstration of front-end web development skills using HTML, CSS, and JavaScript.
